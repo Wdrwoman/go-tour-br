@@ -38,7 +38,7 @@ o texto no editor é formatado pela ferramenta [[http://golang.org/cmd/gofmt/][g
 clicando no botão [[javascript:highlightAndClick(".syntax-checkbox")][sintaxe]].
 
 
-Quando você estiver pronto para seguir em frente, clique no [[javascript:highlightAndClick(".next-page")][seta para direita]] abaixo ou aperte a tecla `PageDown`.
+Quando você estiver pronto para seguir em frente, clique na [[javascript:highlightAndClick(".next-page")][seta para direita]] abaixo ou aperte a tecla `PageDown`.
 
 .play welcome/hello.go
 
